@@ -1,5 +1,9 @@
 # Linear Regression
 
+[**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/07.Linear_Regression/blob/main/Demo_Linear_Regression.ipynb)
+
+**Dưới đây là tóm tắt lí thuyết** 
+
 ## 1. Regression Analysis
 + **Regression analysis** là một dạng của kỹ thuộc mô hình tiên đoán **(predictive modelling technique)**, nó điều tra mối quan hệ giữa **dependent (target)** và các **independent variable (predictor).**
 + Kỹ thuật này được **sử dụng để dự báo (forecasting)**, mô hình hoá chuỗi thời gian (time series) và tìm mối quan hệ giữa các biến.
